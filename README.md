@@ -1,4 +1,8 @@
 # IOT Based Smart Kid Room
+
+Download the Bylink program on your phone. Open the project code via the Arduino program and correct your WIFI and password information via the code. After providing the sensor connections via Bylink, you can load the code into your circuit.
+
+
  Used technologies:
  
 - Nodemcu Esp8266
@@ -16,6 +20,7 @@ The IoT-based children's room project, developed with the given technologies, ai
 
 
 -----------------------------------------------------------------------------------------------------------
+Bylink programını telefonunuza indirin. Proje kodunu Arduino programı üzerinden açıp WİFİ ve şifre bilgilerinizi kod üzerinden düzeltin. Bylink üzerinden sensör bağlantılarını sağladıktan sonra devrenize kodu yükleyebilirsiniz.
 
 Kullanılan teknolojiler:
 -	Nodemcu Esp8266
