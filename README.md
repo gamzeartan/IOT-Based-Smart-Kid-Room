@@ -13,7 +13,7 @@
 • Software - Arduino
 The IoT-based children's room project, developed with the given technologies, aimed to control with remote access. With the data received from the sensors, air quality is measured (MQ-4 Gas Sensor), the child wake up state is checked (Vibration Sensor), fire control is provided (Flame Sensor) and in such cases, the user is notified. If the air quality decreases, the person can provide window control (servo motor) upon notification. In addition to window opening and closing, the window can be adjusted to the desired hoarseness up to 180 degrees. If the child wakes up, ambient lighting can be done by providing the desired light color (RGB Led).
 
-![Image description](C:\Users\gamze\OneDrive\Masaüstü\Yeni klasör\nesnelerin interneti)
+
 -----------------------------------------------------------------------------------------------------------
 
 Kullanılan teknolojiler:
