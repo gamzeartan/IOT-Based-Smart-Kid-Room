@@ -35,3 +35,9 @@ Kullanılan teknolojiler:
 -	Blynk – IoT platform
 -	Software - Arduino 
 Verilen teknolojiler ile geliştirilmiş IoT tabanlı çocuk odası projesi uzaktan erişim ile kontrol amaçlamıştır. Sensörlerden alınan veriler ile hava kalitesi ölçülür(MQ-4 Gaz Sensörü), çocuk uyanma durumu kontrol edilir(Titreşim Sensörü), yangın kontrolü sağlanır(Alev Sensörü) ve bu gibi durumlarda kullanıcıya bildirim gönderilir. Hava kalitesinin düşmesi halinde gelen bildirim üzerine kişi pencere kontrolünü(servo motor) sağlayabilir. Pencere açma ve kapama işlemlerinin yanında 180 dereceye kadar istenilen kısıklık düzeyinde pencere ayarlanabilir. Çocuğun uyanması durumunda istenilen ışık rengi(RGB Led) sağlanarak ortam aydınlatması yapılabilir. Uygulama arayüzü olarak Bylink teknolojisi kullanılmıştır.
+
+
+
+DEVELOPERS:
+-gamzeartan https://github.com/gamzeartan
+-silatasyurek https://github.com/silatasyurek
